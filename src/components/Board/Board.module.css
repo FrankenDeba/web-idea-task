@@ -1,0 +1,9 @@
+.modal{
+    background-color: whitesmoke;
+    border: 0px;
+    color: #c2b2
+}
+.modalHeader{
+    background-color: rgba(102, 187, 106);
+    color: white;
+}

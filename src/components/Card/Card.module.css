@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 0 0 5px black;
+    margin: 3rem;
+    width: 50%;
+    padding: 3rem;
+}
+.holder{
+    display: flex;
+    justify-content: space-around;
+    flex-basis:25%;
+    margin: 2rem 2rem 2rem 2rem;
+}
+.updateButton{
+    width: 95%;
+    border-top: 2px solid #ddd;
+    padding: 2rem;
+    display: flex;
+    justify-content: flex-end;
+}
